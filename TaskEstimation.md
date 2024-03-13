@@ -11,7 +11,7 @@ User Stories provides an informal, natural language description of a feature of 
 Challenges and Skills:
 1.Effort of peers: If certain members within the team are not "pulling their weight" it could affect the group as a whole and can lead to several disagreements and could affect the team as a whole. In this article it briefly describes a scenario, but the key thing is from here that the slack of one person was creating frustration "Frustrated, he looked to Ann's desk and she was not there again". Not putting in effort can bring down the team's morale, increase workload and prevent the team from hitting their target. 
 
-2.Skill difference:
+2.Skill Difference:
 Team members have different skills and experience in a group. This can lead to expectations being set and not being met, I believe this can affect the team in a negative way as some people might produce high quality efforts and other efforts would be mediocre and could affect the overall output of the project.
 
 Personal experiences on Task estimation in Scrum:
