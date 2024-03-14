@@ -28,4 +28,4 @@ Task duration estimation poses another common challenge, with various methods av
 
 Different opinions naturally arise during task estimation, particularly regarding resource allocation and task duration. An intriguing solution found in one article involves a methodical weighing of the pros and cons of each opinion, leading to a consensus even in the face of disagreement. This approach highlights the importance of open communication and collaborative decision-making in refining the task estimation process.
 
-![Estimation](estimation.png)
+![Estimation](estimation.png
